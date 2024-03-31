@@ -1,0 +1,1 @@
+# sensor_esp32c6_zigbee
