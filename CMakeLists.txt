@@ -1,2 +1,2 @@
-idf_component_register(SRCS "cali2_main.c"
-                    INCLUDE_DIRS ".")
+idf_component_register(SRCS "PIR_siimples.c" 
+                       INCLUDE_DIRS ".")
