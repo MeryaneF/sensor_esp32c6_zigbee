@@ -4,7 +4,6 @@
 #include "driver/gpio.h"
 #include "esp_log.h"
 
-// Define o pino do sensor IR
 #define IR_SENSOR_PIN GPIO_NUM_11
 
 // Estados da máquina de estados
